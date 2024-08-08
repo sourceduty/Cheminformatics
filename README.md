@@ -1,4 +1,4 @@
-![Cheminformatics](https://github.com/user-attachments/assets/2aea12f4-a4ab-460e-911a-13f498164743)
+![Cheminformatics](https://github.com/user-attachments/assets/b7ba3e67-017f-4f8c-8a27-33cec7ab4bad)
 
 > Cheminformatics software development and molecular modeling.
 
