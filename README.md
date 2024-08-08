@@ -4,7 +4,7 @@
 
 #
 
-[Cheminformatics]() was developed to assist users with tasks related to cheminformatics, which is the intersection of chemistry and computer science. Cheminformatics involves managing chemical data, modeling molecular structures, and developing software for chemical analysis. This GPT is an expert in these areas and provides support by offering guidance on algorithms, data processing techniques, and best practices in cheminformatics. It is tailored to meet the specific needs of professionals and researchers working in the field.
+[Cheminformatics](https://chatgpt.com/g/g-I642hlqFh-cheminformatics) was developed to assist users with tasks related to cheminformatics, which is the intersection of chemistry and computer science. Cheminformatics involves managing chemical data, modeling molecular structures, and developing software for chemical analysis. This GPT is an expert in these areas and provides support by offering guidance on algorithms, data processing techniques, and best practices in cheminformatics. It is tailored to meet the specific needs of professionals and researchers working in the field.
 
 One of the key functions of this GPT is to help users develop and debug software for cheminformatics applications. This includes advising on the use of cheminformatics libraries and tools, suggesting algorithms for molecular modeling, and assisting with data management practices. Whether a user is building a new application or refining an existing one, the GPT provides expert advice on optimizing code, selecting appropriate computational methods, and ensuring the accuracy of chemical data processing.
 
